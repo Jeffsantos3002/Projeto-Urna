@@ -1,0 +1,6 @@
+One Piece, /imagens/serie/one pierce.png
+Hunter x Hunter, /imagens/serie/hunterXhunter.png
+Jujutsu Kaisen, /imagens/serie/jujutsuKaisen.png
+Fullmetal, /imagens/serie/fullmetal.png
+Naruto shippuden, /imagens/serie/naruto.png
+Dragon Ball Super, /imagens/serie/dragon-ball-super.png
